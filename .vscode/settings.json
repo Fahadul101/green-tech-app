@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "refreshtoken"
+    ],
+    "[javascript]":{
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    }
+}
